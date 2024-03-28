@@ -1,0 +1,7 @@
+slick-prev,
+.slick-next {
+  color: red; 
+  border-radius: 4px;
+  background-color: aqua;
+  border-style: solid;
+}
